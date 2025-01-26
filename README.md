@@ -4,6 +4,7 @@
 - 🤔 I'm currently trying to make a day that have 36 hours.
 - 💬 How to reach me: (kklimczak7@icloud.com)
 - 🌱 My knowledge at the moment :
+  
   [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postman,react,redux,materialui,firebase,netlify,nextjs,ts,)](https://skillicons.dev)
   [![My Skills](https://skillicons.dev/icons?i=html,css,sass,figma,tailwind)](https://skillicons.dev)
   [![My Tools](https://skillicons.dev/icons?i=git,github,vscode,npm,pnpm)](https://skillicons.dev)
